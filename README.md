@@ -22,19 +22,7 @@ Supported source file types:
 
 ## Project Structure
 
-Tieto Assignment
-│
-├── DevelopmentTest
-│   ├── Program.cs
-│   ├── FileScanner.cs
-│   ├── HashUtility.cs
-│   ├── DevelopmentTest.csproj
-│   ├── DevelopmentTest.sln
-│   └── output.txt
-│
-├── TestProject1
-│
-└── TestProjects
+<img width="333" height="418" alt="image" src="https://github.com/user-attachments/assets/c20c4e1a-611e-40e2-9b7a-b8868ed334f7" />
 
 --------------------------------------------------
 
