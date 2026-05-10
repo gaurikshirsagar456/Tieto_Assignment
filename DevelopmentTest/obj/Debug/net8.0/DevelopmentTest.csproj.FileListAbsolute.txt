@@ -1,0 +1,14 @@
+E:\Tieto Assignment\DevelopmentTest\bin\Debug\net8.0\DevelopmentTest.exe
+E:\Tieto Assignment\DevelopmentTest\bin\Debug\net8.0\DevelopmentTest.deps.json
+E:\Tieto Assignment\DevelopmentTest\bin\Debug\net8.0\DevelopmentTest.runtimeconfig.json
+E:\Tieto Assignment\DevelopmentTest\bin\Debug\net8.0\DevelopmentTest.dll
+E:\Tieto Assignment\DevelopmentTest\bin\Debug\net8.0\DevelopmentTest.pdb
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.AssemblyInfoInputs.cache
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.AssemblyInfo.cs
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.csproj.CoreCompileInputs.cache
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.dll
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\refint\DevelopmentTest.dll
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.pdb
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.genruntimeconfig.cache
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\ref\DevelopmentTest.dll
