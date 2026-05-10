@@ -12,3 +12,4 @@ E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\refint\DevelopmentTest.dll
 E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.pdb
 E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.genruntimeconfig.cache
 E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\ref\DevelopmentTest.dll
+E:\Tieto Assignment\DevelopmentTest\obj\Debug\net8.0\DevelopmentTest.sourcelink.json
